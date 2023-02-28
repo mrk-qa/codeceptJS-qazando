@@ -1,0 +1,6 @@
+{
+    "name": "Github",
+    "type": "github",
+    "url": "https://github.com/",
+    "buildName": "allure-report-actions"
+}

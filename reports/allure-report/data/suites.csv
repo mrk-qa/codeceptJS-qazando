@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 28 00:51:06 BRT 2023","Tue Feb 28 00:51:16 BRT 2023","10107","","LOGIN:","","LOGIN:","Login with success","Login with success",""
+"passed","Tue Feb 28 00:51:16 BRT 2023","Tue Feb 28 00:51:25 BRT 2023","9593","","LOGIN:","","LOGIN:","Display message error in login with INVALID EMAIL","Display message error in login with INVALID EMAIL",""
+"passed","Tue Feb 28 00:51:25 BRT 2023","Tue Feb 28 00:51:35 BRT 2023","9363","","LOGIN:","","LOGIN:","Display message error in login with INVALID PASSWORD","Display message error in login with INVALID PASSWORD",""
+"passed","Tue Feb 28 00:51:35 BRT 2023","Tue Feb 28 00:51:49 BRT 2023","14866","","VALIDATION STUDENTS:","","VALIDATION STUDENTS:","Add student with success","Add student with success",""

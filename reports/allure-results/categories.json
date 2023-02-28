@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Testes reprovados",
+        "matchedStatuses": [
+            "failed"
+        ]
+    },
+    {
+        "name": "Testes aprovados",
+        "matchedStatuses": [
+            "passed"
+        ]
+    }
+]
